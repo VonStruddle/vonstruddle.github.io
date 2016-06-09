@@ -473,7 +473,14 @@ a[href="blog.html"] {
     min-height: 40px;
 }
 
-.fa-file-excel-o {
-    float: left;
-    font-size: 40px;
+#education p {
+    text-align: center;
+}
+
+.shadow-txt {
+    text-shadow: 1px 1px 2px #000;
+}
+
+.shadow-box {
+    box-shadow: 1px 1px 2px #000;
 }
