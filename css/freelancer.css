@@ -468,3 +468,12 @@ a[href="blog.html"] {
     border-radius: 50%;
     max-width: 256px;
 }
+
+.progress {
+    min-height: 40px;
+}
+
+.fa-file-excel-o {
+    float: left;
+    font-size: 40px;
+}
