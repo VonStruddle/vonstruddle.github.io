@@ -460,10 +460,6 @@ footer .footer-below {
 
 /*---- CUSTOM CSS FROM ME  ---------------------------*/
 
-a[href="blog.html"] {
-    border-left: 3px solid #fff;
-}
-
 .profile-img {
     border-radius: 50%;
     max-width: 256px;
