@@ -481,7 +481,7 @@ footer .footer-below {
     text-align: center;
 }
 
-.shadow-txt {
+.shadow-text {
   text-shadow: 1px 1px 2px #000;
 }
 
@@ -495,4 +495,13 @@ footer .footer-below {
 
 .margin-top {
   margin-top: 70px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#linkedin-experiences {
+  font-size: 4.5rem;
+  color: #2C3E50;
 }
